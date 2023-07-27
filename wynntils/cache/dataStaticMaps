@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Main 1-1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-1-1.png",
+    "x1": -2560,
+    "z1": -6144,
+    "x2": -1025,
+    "z2": -5121,
+    "md5": "68261bf4659d37b077be22e03822fdba"
+  },
+  {
+    "name": "Main 1-2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-1-2.png",
+    "x1": -1024,
+    "z1": -6144,
+    "x2": 1023,
+    "z2": -5121,
+    "md5": "8265be0c7743b8494fbc736920691522"
+  },
+  {
+    "name": "Main 1-3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-1-3.png",
+    "x1": 1024,
+    "z1": -6144,
+    "x2": 2047,
+    "z2": -5121,
+    "md5": "12b8abd5b71859f6fbd7ea53796073d0"
+  },
+  {
+    "name": "Main 2-1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-2-1.png",
+    "x1": -2560,
+    "z1": -5120,
+    "x2": -1025,
+    "z2": -4097,
+    "md5": "4778cc3846b32bedc9570eab0564bfb5"
+  },
+  {
+    "name": "Main 2-2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-2-2.png",
+    "x1": -1024,
+    "z1": -5120,
+    "x2": 1023,
+    "z2": -4097,
+    "md5": "07b34b9f4c33204f4bb7fddc15552e28"
+  },
+  {
+    "name": "Main 2-3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-2-3.png",
+    "x1": 1024,
+    "z1": -5120,
+    "x2": 2047,
+    "z2": -4097,
+    "md5": "7af8daff0d82d570706604d1ab2f0e26"
+  },
+  {
+    "name": "Main 3-1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-3-1.png",
+    "x1": -2560,
+    "z1": -4096,
+    "x2": -1025,
+    "z2": -3073,
+    "md5": "a2ed4cb0fe16449a2a0e1f53a8e29574"
+  },
+  {
+    "name": "Main 3-2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-3-2.png",
+    "x1": -1024,
+    "z1": -4096,
+    "x2": 1023,
+    "z2": -3073,
+    "md5": "e2d879b4fd58c4e12abb1c4863efe31f"
+  },
+  {
+    "name": "Main 3-3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-3-3.png",
+    "x1": 1024,
+    "z1": -4096,
+    "x2": 2047,
+    "z2": -3073,
+    "md5": "02caf89fd29f0f437f2dc07e2b7b1a27"
+  },
+  {
+    "name": "Main 4-1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-4-1.png",
+    "x1": -2560,
+    "z1": -3072,
+    "x2": -1025,
+    "z2": -2049,
+    "md5": "936da6d794c64fb49c6d136a2f0c4ffb"
+  },
+  {
+    "name": "Main 4-2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-4-2.png",
+    "x1": -1024,
+    "z1": -3072,
+    "x2": 1023,
+    "z2": -2049,
+    "md5": "1877e537b8890c7ee7693c43231f540f"
+  },
+  {
+    "name": "Main 4-3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-4-3.png",
+    "x1": 1024,
+    "z1": -3072,
+    "x2": 2047,
+    "z2": -2049,
+    "md5": "6f78feaae634faa1eb225c5636af8165"
+  },
+  {
+    "name": "Main 5-1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-5-1.png",
+    "x1": -2560,
+    "z1": -2048,
+    "x2": -1025,
+    "z2": -1025,
+    "md5": "1215384a92ca93427d282e6eda1b42d0"
+  },
+  {
+    "name": "Main 5-2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-5-2.png",
+    "x1": -1024,
+    "z1": -2048,
+    "x2": 1023,
+    "z2": -1025,
+    "md5": "3120174c80e560d0660612d523c47ae3"
+  },
+  {
+    "name": "Main 5-3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-5-3.png",
+    "x1": 1024,
+    "z1": -2048,
+    "x2": 2047,
+    "z2": -1025,
+    "md5": "24abfdb2d7cfe85eadf9f3ade34d41e0"
+  },
+  {
+    "name": "Main 6-1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-6-1.png",
+    "x1": -2560,
+    "z1": -1024,
+    "x2": -1025,
+    "z2": -1,
+    "md5": "cca93b6b44d8ac4751f0d47b81a9ea6e"
+  },
+  {
+    "name": "Main 6-2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-6-2.png",
+    "x1": -1024,
+    "z1": -1024,
+    "x2": 1023,
+    "z2": -1,
+    "md5": "11d5ba6c0767baabeb031a9b756b5355"
+  },
+  {
+    "name": "Main 6-3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-main-6-3.png",
+    "x1": 1024,
+    "z1": -1024,
+    "x2": 2047,
+    "z2": -1,
+    "md5": "46ee2fb534c60a042152b8a7ab411323"
+  },
+  {
+    "name": "Ceralus Farm 1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-ceralus-1.png",
+    "x1": -5120,
+    "z1": -1536,
+    "x2": -3073,
+    "z2": -1025,
+    "md5": "a2f5a5faa603968e632b8df333e29a21"
+  },
+  {
+    "name": "Ceralus Farm 2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-ceralus-2.png",
+    "x1": -8704,
+    "z1": -1536,
+    "x2": -7681,
+    "z2": -1025,
+    "md5": "b19afca349239d960761a5ded1c05d42"
+  },
+  {
+    "name": "Deja Vu",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-deja-vu.png",
+    "x1": -4608,
+    "z1": 1024,
+    "x2": -3585,
+    "z2": 1535,
+    "md5": "9bc23ec386c7a50ae71334939d007fb3"
+  },
+  {
+    "name": "King's Recruit",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kings-recruit.png",
+    "x1": -10752,
+    "z1": -2560,
+    "x2": -10241,
+    "z2": -1537,
+    "md5": "163280c411ad158d783765d27fd9a193"
+  },
+  {
+    "name": "Misadventure on the Sea",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-misadventure-on-the-sea.png",
+    "x1": -3584,
+    "z1": 15360,
+    "x2": -2049,
+    "z2": 16895,
+    "md5": "3c3beab17357a8442202b16c7028a11c"
+  },
+  {
+    "name": "Realm of Light",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-realm-of-light.png",
+    "x1": -1536,
+    "z1": -6656,
+    "x2": -513,
+    "z2": -5633,
+    "md5": "a057b92fc1db091b2e3269e31b384686"
+  },
+  {
+    "name": "Seaskipper",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-seaskipper.png",
+    "x1": 15872,
+    "z1": 15360,
+    "x2": 16895,
+    "z2": 15871,
+    "md5": "3952df1e79adb17485c1f0c7b887217f"
+  },
+  {
+    "name": "Sunset Valley",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sunset-valley.png",
+    "x1": -2048,
+    "z1": 9728,
+    "x2": -1025,
+    "z2": 10239,
+    "md5": "e244990cf2f818efcfa07fc69882f120"
+  },
+  {
+    "name": "The Void",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-void.png",
+    "x1": 13312,
+    "z1": -5120,
+    "x2": 14335,
+    "z2": -3073,
+    "md5": "e2748531c5622138e3eebe59c03705dc"
+  },
+  {
+    "name": "Wynnter Fair",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-wynnter-fair.png",
+    "x1": -1536,
+    "z1": 15872,
+    "x2": -513,
+    "z2": 16895,
+    "md5": "f527ee646321fb6b0d6a5280704610af"
+  },
+  {
+    "name": "Wynnter Fair Parkour",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-wynnter-fair-parkour.png",
+    "x1": -2048,
+    "z1": 17920,
+    "x2": -1537,
+    "z2": 18943,
+    "md5": "f828487a68016747084f804e090d9fe0"
+  },
+  {
+    "name": "A Sandy Scandal 1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sandy-scandal-1.png",
+    "x1": -14336,
+    "z1": 20480,
+    "x2": -13313,
+    "z2": 21503,
+    "md5": "c00755ea4a16cfd4461f89c9ee5c3ec0"
+  },
+  {
+    "name": "A Sandy Scandal 2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sandy-scandal-2.png",
+    "x1": -15360,
+    "z1": 20480,
+    "x2": -14337,
+    "z2": 20991,
+    "md5": "e2bed7b19ae81895f660b4c5d46056e0"
+  },
+  {
+    "name": "A Sandy Scandal 3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-sandy-scandal-3.png",
+    "x1": -17408,
+    "z1": 20992,
+    "x2": -16385,
+    "z2": 22015,
+    "md5": "ba58926f9e3beae9df057cdc3b582e4c"
+  },
+  {
+    "name": "Kingdom of Sand 1",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-1.png",
+    "x1": 1536,
+    "z1": -2048,
+    "x2": 2559,
+    "z2": -1537,
+    "md5": "41b198048b273feb80e56fc952a0bb4b"
+  },
+  {
+    "name": "Kingdom of Sand 2",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-2.png",
+    "x1": 2048,
+    "z1": 512,
+    "x2": 3071,
+    "z2": 1023,
+    "md5": "f361924bc3e4635cf26dcf220674ad69"
+  },
+  {
+    "name": "Kingdom of Sand 3",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-3.png",
+    "x1": 3072,
+    "z1": -1536,
+    "x2": 3583,
+    "z2": -1025,
+    "md5": "985bd4625b5135dffd429e3b6e7ccc51"
+  },
+  {
+    "name": "Kingdom of Sand 4",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-4.png",
+    "x1": 5632,
+    "z1": -2560,
+    "x2": 6143,
+    "z2": -1537,
+    "md5": "3a114f6dcfd4ce95f20d11e111356c3a"
+  },
+  {
+    "name": "Kingdom of Sand 5",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-kingdom-of-sand-5.png",
+    "x1": 7680,
+    "z1": -2048,
+    "x2": 8703,
+    "z2": -1537,
+    "md5": "10d15e15b87d3500d1a291f931667c1e"
+  },
+  {
+    "name": "Talespun Citadel",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-talespun-citadel.png",
+    "x1": -1536,
+    "z1": 9728,
+    "x2": -1025,
+    "z2": 10751,
+    "md5": "9ad11cb5e69391d1b70e5508c8fc66a8"
+  },
+  {
+    "name": "Ozoth's Nest",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-ozoths-nest.png",
+    "x1": -16384,
+    "z1": 1024,
+    "x2": -15873,
+    "z2": 2047,
+    "md5": "7dcc544acf6a5a25ffe2f97ea5f007da"
+  },
+  {
+    "name": "Death's Realm",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-deaths-realm.png",
+    "x1": 0,
+    "z1": -8192,
+    "x2": 1023,
+    "z2": -7169,
+    "md5": "a95c3cb96c6326483d7c1a497db79543"
+  },
+  {
+    "name": "Little Wing Navigation",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-little-wing-navigation.png",
+    "x1": 3072,
+    "z1": -5120,
+    "x2": 3583,
+    "z2": -4097,
+    "md5": "c1b7cfc41bca23f390b300cbb3507838"
+  },
+  {
+    "name": "On Board Little Wing",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-on-board-little-wing.png",
+    "x1": 2048,
+    "z1": -4608,
+    "x2": 3071,
+    "z2": -3585,
+    "md5": "9969491d7cc81ac83487e02b033a02fd"
+  },
+  {
+    "name": "Gateway Island",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-gateway-island.png",
+    "x1": 19456,
+    "z1": -5120,
+    "x2": 20479,
+    "z2": -4097,
+    "md5": "ee2c21e7ea4bb5c72f7868ca79d79fe3"
+  },
+  {
+    "name": "Gateway Island Crash",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-gateway-island-crash.png",
+    "x1": 20992,
+    "z1": -4608,
+    "x2": 21503,
+    "z2": -4097,
+    "md5": "47726d30b726d817fa641457ef3df583"
+  },
+  {
+    "name": "The Feathers Fly Part II, Corkus City Plant",
+    "url": "https://raw.githubusercontent.com/Wynntils/WynntilsWebsite-API/master/maps/map-feathers-fly-corkus-city-plant.png",
+    "x1": -512,
+    "z1": 20480,
+    "x2": 511,
+    "z2": 21503,
+    "md5": "b28d8e0d2a5e48a29b30375e4b900cc5"
+  }
+]

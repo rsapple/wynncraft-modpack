@@ -1,0 +1,13 @@
+{
+  "wynntils.upfixers": [
+    "custom_poi_visibility",
+    "customCommandKeybindSlashStart",
+    "gameBarOverlayMove",
+    "enumNaming",
+    "customPoiIconEnumBug",
+    "questBookToContentRenamedConfigs",
+    "mapToMainMapRenamedConfigs",
+    "overlayRestructuring",
+    "overlayConfigsIntegration"
+  ]
+}

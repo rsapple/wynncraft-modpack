@@ -1,0 +1,11 @@
+[2023-07-27 15:56:39] [INFO]: I18nUpdate Mod 3.5.0 is loaded in 1.19.4 with Fabric
+[2023-07-27 15:56:39] [DEBUG]: Minecraft path: /Users/penghedong/Library/Application Support/minecraft/versions/1.19.4 - Wynncraft
+[2023-07-27 15:56:39] [DEBUG]: User home: /Users/penghedong/Library/Application Support
+[2023-07-27 15:56:39] [DEBUG]: Local file /Users/penghedong/Library/Application Support/.i18nupdatemod/1.19.3/Minecraft-Mod-Language-Modpack-1-19.zip has been updated recently.
+[2023-07-27 15:56:39] [DEBUG]: Already up to date.
+[2023-07-27 15:56:39] [DEBUG]: Local file /Users/penghedong/Library/Application Support/.i18nupdatemod/1.18.2/Minecraft-Mod-Language-Modpack-1-18-Fabric.zip has been updated recently.
+[2023-07-27 15:56:39] [DEBUG]: Already up to date.
+[2023-07-27 15:56:39] [INFO]: Converting: /Users/penghedong/Library/Application Support/.i18nupdatemod/1.19.3/Minecraft-Mod-Language-Modpack-1-19.zip
+[2023-07-27 15:56:39] [INFO]: Converting: /Users/penghedong/Library/Application Support/.i18nupdatemod/1.18.2/Minecraft-Mod-Language-Modpack-1-18-Fabric.zip
+[2023-07-27 15:56:40] [INFO]: Converted: [/Users/penghedong/Library/Application Support/.i18nupdatemod/1.19.3/Minecraft-Mod-Language-Modpack-1-19.zip, /Users/penghedong/Library/Application Support/.i18nupdatemod/1.18.2/Minecraft-Mod-Language-Modpack-1-18-Fabric.zip] -> /Users/penghedong/Library/Application Support/.i18nupdatemod/1.19.4/Minecraft-Mod-Language-Modpack-Converted-1.19.4.zip
+[2023-07-27 15:56:40] [INFO]: Synchronized: /Users/penghedong/Library/Application Support/.i18nupdatemod/1.19.4/Minecraft-Mod-Language-Modpack-Converted-1.19.4.zip -> /Users/penghedong/Library/Application Support/minecraft/versions/1.19.4 - Wynncraft/resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.4.zip

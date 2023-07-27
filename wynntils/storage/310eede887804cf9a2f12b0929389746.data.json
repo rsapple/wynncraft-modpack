@@ -1,0 +1,43 @@
+{
+  "feature.changelog.lastShownVersion": "v0.0.3-alpha.217",
+  "feature.gammabright.lastGamma": 1.0,
+  "feature.silencer.originalVolume": 1.0,
+  "model.container.finalBankPage": 21,
+  "model.container.finalBlockBankPage": 12,
+  "model.container.finalBookshelfPage": 10,
+  "model.container.finalMiscBucketPage": 10,
+  "model.lootChest.dryBoxes": 5,
+  "model.lootChest.dryCount": 12,
+  "model.lootChest.dryEmeralds": 152,
+  "model.lootChest.dryItemTiers": {
+    "normal": 4,
+    "unique": 1,
+    "rare": 2,
+    "legendary": 2
+  },
+  "model.lootChest.mythicFinds": [],
+  "model.lootChest.openedChestCount": 12,
+  "model.profession.professionDryStreak": 0,
+  "service.poi.customPoiProviders": [],
+  "service.resourcePack.requestedPreloadHash": "a8286baa52f0fa39904cb0f91ee59f9e8b8dc588",
+  "service.statistics.statistics": {
+    "9c43e078": {
+      "damageDealt": {
+        "total": 15174,
+        "count": 1480,
+        "min": 2,
+        "max": 282,
+        "firstModified": 1690444809025,
+        "lastModified": 1690452127982
+      },
+      "spellsCast": {
+        "total": 64,
+        "count": 64,
+        "min": 1,
+        "max": 1,
+        "firstModified": 1690444860272,
+        "lastModified": 1690451997023
+      }
+    }
+  }
+}
